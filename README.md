@@ -20,7 +20,8 @@ Check out what I've been up to or shoot me a message
 
 Here's something special:
 
-
+> This is a groovy playlist
+> I listen to while I code
 
 ## [Here It Is](https://www.open.spotify.com/user/kevinzhagui/playlist/4SCkHR2Gx0OC2JyCKNQ6Ta)
 
@@ -36,5 +37,5 @@ Aunt Leslie- Vulfpeck|
 Atomic Bomb- Hot Chip|
 Vibin' Out With You- FKJ|
 Another Star- Stevie Wonder|
-Football Head| Flamingosis
+Football Head- Flamingosis|
 
