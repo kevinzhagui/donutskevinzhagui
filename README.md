@@ -1,9 +1,7 @@
 # Kevin Zhagui
 
-# Header 1
-
-Kevin Zhagui
-## Header 2
+## Kevin Zhagui
+## UIUC
 UIUC 
 kzhagui2@illinois.edu
 Chicago, Illinois 60625
