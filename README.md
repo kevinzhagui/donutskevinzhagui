@@ -11,4 +11,4 @@ Format: ![Alt Text](http://coolpcwallpapers.com/wp-content/uploads/2014/02/City-
 
 ## [My GitHub](http://github.com/kevinzhagui)
 Here you can check out some of my cool projects.
-## [My LinkedIn](https://www.linkedin.com/in/kevin-zhagui-6531a9155/
+## [My LinkedIn](https://www.linkedin.com/in/kevin-zhagui-6531a9155/)
