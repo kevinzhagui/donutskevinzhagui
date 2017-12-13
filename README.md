@@ -16,7 +16,4 @@ Follow for follow?
 ## [My Facebook](https://www.facebook.com/Kevin7Zhagui)
 Check out what I've been up to or shoot me a message
 
-> Check out these groovy songs
-> I listen to while coding
-> 
-> s
+
