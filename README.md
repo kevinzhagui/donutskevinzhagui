@@ -1,3 +1,3 @@
 # donutskevinzhagui
 
-Hello, world! this is my personal website, where I'll track my computer science projects and personal endeavors
+Hello, world! I'm Kevin Zhagui, I like donuts and this is my personal website where I'll be tracking my projects and endeavors.
